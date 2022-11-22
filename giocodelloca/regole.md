@@ -4,7 +4,7 @@ Giocatori: Da 2 a 6 giocatori consigliati.
 
 Tipologia: competitivo, gioco di fortuna, gioco di percorso
 
-Tabellone: Il tabellone da gioco è formato da 90 caselle che si susseguono a spirale. Ogni giocatore si sposta con una pedina diversa e sono compresi due dadi.
+Tabellone: Il tabellone da gioco è formato da 63 caselle che si susseguono a spirale. Ogni giocatore si sposta con una pedina diversa e sono compresi due dadi.
 
 I giocatori, a turno (cominciando dal più giovane e giocando in ordine di età crescente), lanciano due dadi, poi spostano la propria pedina di un numero di caselle pari alla somma del lancio. Vince chi arriva per primo all’ultima casella con un lancio esatto, terminando il suo movimento sulla casella 63; se un giocatore ottiene un numero più alto di quello necessario per raggiungere l’ultima casella, dopo aver raggiunto la casella 63 dovrà tornare indietro. 
 
